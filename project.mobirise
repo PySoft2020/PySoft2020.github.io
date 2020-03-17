@@ -788,7 +788,7 @@
                 "textTitle": "Code. Made <b>Simple</b>.",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Easily Download Python Apps With <b>Pysoft Launcher</b>.",
+                "text": "Easily Download Python Apps With <b>Pysoft Launcher</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://github.com/PySoft2020/PySoft-Launcher-App/\" data-toolbar=\"-mbrBtnMove\">Download</a> "
               },
               {
@@ -807,7 +807,7 @@
                 "textTitle": "Python",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose From a Large Selection of Python Libraries With One Click.",
+                "text": "Choose From a Large Selection of Python Libraries With One Click",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://github.com/PySoft2020/PySoft-Launcher-App/\" data-toolbar=\"-mbrBtnMove\">Download</a> "
               }
             ]
