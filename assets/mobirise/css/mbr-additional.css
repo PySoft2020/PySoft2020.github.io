@@ -1801,8 +1801,13 @@ section.lazy-placeholder:after {
 .cid-rTs3VRQVQO .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rTs4uk2B66 {
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
+.cid-rTs9mL3lFN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rTs9mL3lFN P {
+  color: #767676;
 }
 .cid-rTs4ZRbgb6 {
   padding-top: 60px;
