@@ -2789,10 +2789,17 @@ section.lazy-placeholder:after {
 .cid-rTxs6OKQz5 .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-rTxw9nMkzH {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rTxw9nMkzH .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-rTxt22rPXo {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #55b4d4;
+  background-color: #ffffff;
 }
 .cid-rTxt22rPXo .mbr-section-subtitle {
   color: #767676;
